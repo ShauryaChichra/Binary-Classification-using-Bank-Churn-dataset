@@ -4,8 +4,10 @@
 
 **Dataset:**
 The dataset for this kaggle competition (both train and test) was generated from a deep learning model trained on the Bank Customer Churn Prediction dataset.
-<br/>
-/<img src="https://github.com/ShauryaChichra/Binary-Classification-using-Bank-Churn-dataset/assets/98745979/85e75ea0-8ff6-4a4c-b103-cee7490fde8b" width="650" height="200" />
+<br>
+
+<br>
+<img src="https://github.com/ShauryaChichra/Binary-Classification-using-Bank-Churn-dataset/assets/98745979/85e75ea0-8ff6-4a4c-b103-cee7490fde8b" width="650" height="200" />
 <img src="https://github.com/ShauryaChichra/Binary-Classification-using-Bank-Churn-dataset/assets/98745979/d59cfb5e-cf1a-4136-95ff-68386c4e77aa" width="300" height="200" />
 <br>
 **Result:**
